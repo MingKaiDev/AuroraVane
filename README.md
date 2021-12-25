@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AuroraVane
 - 👀 I’m interested in Python Language, Machine learning & Image Manipulation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning basic computer science
 - 📫 How to reach me @gaymingkai@live.com.sg
 
 <!---
