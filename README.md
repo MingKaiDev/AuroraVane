@@ -12,7 +12,6 @@
 - 💻 I'm a full-stack developer with a focus on **C/Python/Javascript/React**.
 - 🌱 Currently learning **Raylib** to level up my development skills.
 - 🎮 When I'm not working, you can find me diving into video games or working on game development projects.
-- 🔭 I’m currently working on **Fire Emblem Clone**.
 - 💬 Feel free to reach out if you’d like to collaborate on a project or chat about coding, gaming, or anything tech-related!
 
 ## 🔧 Technologies & Tools
